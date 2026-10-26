@@ -10,12 +10,12 @@ From 2006 to 2010, the average sale price decreased 5.0%, while the median decre
 
 ## Summary Table
 
-| Year sold |	| Number of homes sold |	| Average sale price |	| Median sale price |
+| Year sold | Number of homes sold | Average sale price	| Median sale price |
 |---|---:|---:|---:|
-| 2006 |	| 625 |	| $181,762 |	| $159,500 |
-| 2007 |	| 694 |	| $185,138 |	| $165,125 | 
-| 2008 |	| 622 |	| $178,842 |	| $161,000 |
-| 2009 |	| 648 |	| $181,405 |	| $160,850 |
-| 2010* |	| 341 |	| $172,598 |	| $155,000 |
+| 2006 | 625 | $181,762 | $159,500 |
+| 2007 | 694 | $185,138 | $165,125 | 
+| 2008 | 622 | $178,842 | $161,000 |
+| 2009 | 648 | $181,405 | $160,850 |
+| 2010* | 341 |	$172,598 | $155,000 |
 
 2010 includes January–July only; other years include January–December.
